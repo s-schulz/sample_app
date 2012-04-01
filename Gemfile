@@ -30,7 +30,6 @@ group :test do
 	gem 'spork', '0.9.0'
 end
 
-
 gem 'jquery-rails'
 
 # To use ActiveModel has_secure_password
